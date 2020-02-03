@@ -1,1 +1,1 @@
-<h2>iniciando os estudos</h2>
+<h2>Iniciando os estudo</h2>
